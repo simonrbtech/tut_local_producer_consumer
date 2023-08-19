@@ -1,0 +1,6 @@
+confluent-kafka==2.2.0
+confluent_avro==1.8.0
+fastavro==1.8.2
+ipykernel==6.25.1
+pytz==2023.3
+requests==2.31.0 

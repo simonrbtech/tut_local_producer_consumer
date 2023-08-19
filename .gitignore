@@ -1,0 +1,63 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.vscode/
+
+# Jupyter Notebook auto-save
+.ipynb_checkpoints/
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Package distribution / building
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+
+# Compiled files
+*.o
+*.lo
+*.la
+*.log
+*.so
+*.pyc
+__pycache__/
+*.egg-info/
+*.egg
+*.rej
+*.swo
+*.swp
+*.db
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+
+# Virtual environment
+venv/
